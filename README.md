@@ -59,12 +59,20 @@ One of the not so hidden easter eggs of the original game is the consistent pres
 encountered', the symbol of the human race become the square and the X. The cross on the footman's shield, the crossbow of the archer, the cross shape of the town hall, the cross on the top of the human barracks. So the O left for the orcs, that shaped almost all their structures. The current game will try to realize this idea even more.
 
 ### Pseudo-features
-As every other game the original also had a lot of elements that were part of certain campaigns but were not accessible by the player in other campaigns or in custom games. Unbuildable structures, untrainable units, untriggerable events.
+As every other game the original also had a lot of elements that were part of certain campaigns but were not accessible by the player in other campaigns or in custom games. Unbuildable structures, untrainable units, untriggerable events. This game will implement all of them.
+
+The player will be able to build and destroy everything that can be seen on the map. Plant trees, build mines, build and upgrade roads and bridges, or destroy them all. 
+
+Every creature will be breedable, every monster will be summonable, and every type of unit will be either trainable or acquirable in some way.
+
+In the narrative of the original game desertion, betrayal, overthrow, imprisonment, and slavery have a big roles, so they have their place in this game as well, directly in the gameplay not just as part of the story.
 
 ### What you see is what you get
 [The Settlers (2018) redefined WYSIWYG](https://www.thesettlers-alliance.com/en/dev-wysiwyg/) in the context of games. 'We define the information the player can access as information layers. On the first layer, you have the world you play in – WYSIWYG. You see where you can place what building, farm resources, fish, hunt, gather etc. In the other layers you find everything else, you might want to know.'
 
-In the context of Warcraft it means that the proper resources have to be gathered to train and upgrade certain units and build certain structures. The role of the gold mines will be taken over by the quarrys and iron mines, and leather will be the primary building material of the orchish structures providing them a well-deserved advantage in the swamps.
+In the context of Warcraft it means that the proper resources have to be gathered to train and upgrade certain units and build certain structures. The role of the gold mines will be taken over by the quarrys and iron mines.
+
+Another key aspect of the game is that everything is scaled appropriately. If a town hall is big enough to hold dozens of peasants, they will be able to fit in ingame as well. If a mine became big enough to hide a group of brigands, then it will be big enough ingame as well to let the soldiers look for them for minutes. Mining in the depths won't be any different than cutting down trees. Consequently, every structure will be a lot bigger than in the original game.
 
 ### Origin of the names
 The primary goal of the name selections is to pay homage to the names of the original game.
