@@ -34,13 +34,19 @@ Dense vegetation can provide concealment for tactical movements such as setting 
 
 Similar manmade advantages are the walls, towers, bridges and roads.
 
+Warcraft 3 has almost all of these elements, but there is no reason why they couldn't be implemented in a game based on Warcraft 1.
+
 ##### Double envelopment
+Encircling the enemy is a usual manouver in every game that features melee units.
 
 ##### Ambush
+Units can hide in certain terrains and structures. In Warcraft 3 Night Elves have a similar ability, but in the current game it could be terrain-specific, not unit-specific.
 
 #### Scorched-earth action
+Every time an army achieves victory, it can keep its structures, people, and the knowledge of magical advancements to gain advantage of them in the future, or destroy some or all of them to prevent the enemy to recover them if it somehow manages to retreive the area in the future.
 
 #### Blockade
+
 
 #### Guerilla warfare
 
