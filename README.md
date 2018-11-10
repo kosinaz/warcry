@@ -1,5 +1,5 @@
 # Warcry: Clans and Kingdoms
-Warcry: Clans and Kingdoms is a open source real-time fantasy strategy game heavily influenced by Warcraft: Orcs and Humans with the unique goal to reform the very basis of a genre by revisiting the game that founded it.
+An open source real-time fantasy strategy game heavily influenced by Warcraft: Orcs and Humans with the unique goal to reform the very basis of a genre by revisiting the game that founded it.
 
 ## Fundamentals of a reformed genre
 The War of the Ring game-mode of The Lord of the Rings: The Battle for Middle-earth II is already very close to the vision itself, but there should be even more emphasis on the real-time battles by completely removing the building and unit-training aspects as they are already faster than real-time. Units should be trained and buildings should be built only if there is no military movement at all. In addition the number of units to be trained should be very limited.
