@@ -17,10 +17,17 @@ In maneuver warfare, the destruction of certain enemy targets is combined with i
 Factions are required to have a designated center of command at all times. By default this would be the town hall, but there is an option to move it to another building or cave and keep the town hall as a fake command center as a deception. The opposing faction's primary goal will be to find this command center with spies, magic, or total annihilation of the base to crush the head of the enemy and scatter their forces.
 
 ##### Leaders
+Every human squad is led by a corporal. The magical gemstones on the corporal's ring grants the lords and the king direct visibility and control over the squad.
+
+Every party of orc is led by a slasher. The skulls on the slasher's necklace grants the masters and the warchief direct visibility and control over the party.
+
+Ranged units that are close enough will automatically target the leaders of the squad to revoke the commanders' visibility and control over the squad and cripple the squad itself due to the lack of leadership.
 
 ##### Logistical bases
+Almost every structure built by the player has some strategic importance. Losing a lumber mill can hinder ongoing constructions, losing the mines can prevent the training of additional soldiers, losing the farms can lead to lose entire armies due to starvation, but even secondary targets, like bridges and roads can weaken the forces of a nation. Unless the target is not even in use and has been built just to mislead the enemy.
 
 ##### Fire support assets
+Conjurer and warlock towers are not vital targets, but they serve as literal fire support in the battles. These are the places where the rains of fire, the poison clouds, and the various monsters are summoned and controlled. Destroying them won't cripple a nation but can weaken it dramatically. However, it's not an easy task, since the dwellers will rain elemental blasts and firebolts on everyone who dare to oppose them. 
 
 ##### Advantage of terrain
 
