@@ -30,6 +30,9 @@ Almost every structure built by the player has some strategic importance. Losing
 Conjurer and warlock towers are not vital targets, but they serve as literal fire support in the battles. These are the places where the rains of fire, the poison clouds, and the various monsters are summoned and controlled. Destroying them won't cripple a nation but can weaken it dramatically. However, it's not an easy task, since the dwellers will rain elemental blasts and firebolts on everyone who dare to oppose them. 
 
 ##### Advantage of terrain
+Dense vegetation can provide concealment for tactical movements such as setting up an ambush. Elevation can provide an advantage to soldiers using projectile weapons. Cliffs can block off certain areas, making it unnecessary to station troops within the inaccessible area. Choke points between a lake or a swamp and hills, muddy areas can be also turned to advantage against the opposing forces.
+
+Similar manmade advantages are the walls, towers, bridges and roads.
 
 ##### Double envelopment
 
