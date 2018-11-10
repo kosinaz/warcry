@@ -59,3 +59,9 @@ The primary goal of the name selections is to pay homage to the names of the ori
 
 * **Warcry: Clans and Kingdoms**: The main purpose of the game's title is to be as close to the original as possible to make the connection instantly recognizible, also to be a title that is coming from the franchise itself. Warcry was introduced in Warcraft 3 to add a unique reaction to every unit that has been ordered to attack a hero. Though heroes were only introduced in Warcraft 3, stronger, unique versions of the regular units were already playable in Warcraft 2, and were present as non-playable characters in Warcraft 1. Since similar units will be also added to this game it's a nice way to refer to this new key feature with the title while keeping it close to the original. The original subtitle was highlighting the playable races, so the new subtitle does the same, but in a more subtle way. Though the orcish clans and the kingdoms of the alliance were introduced only in Warcraft 2, there is no reason some similar variety couldn't be introduced in the current game. Hence the eye-catching reference in the subtitle.
 * **World of Atser**: The original name that inspired the name, Azeroth, is one of the locations that the Israelites stopped at during their forty years of wandering in the wilderness, Hazeroth, a place in the wilderness. Its transliteration is Chatseroth, that is originated from the word Chatser, meaning settlement, village. By omitting the beginning of the word the same way Blizzard did, but keeping the orginal trasliteration, we get Atser, the name of our Azeroth-inspired brand new world.
+
+## Contributions
+Contributions are welcome! Any kind of contributions, pull requests, or bug reports will be reviewed.
+
+## License
+This work is licensed under GNU General Public License v3.0.
