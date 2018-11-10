@@ -49,14 +49,30 @@ However the lack of information is a key aspect of strategy as the elements of s
 Sometimes strategic decesion making demands quick thinking and acting. However noticing that the enemy forces are incoming and building a wall before they reach the base or training soldiers during a siege to overcome the enemy are events so surreal that they should never happen in a proper real-time strategy game. Therefore as stated above only unit movement will be real time, but even those will be much slower to require fast reactions only if they are appropriate.
 
 ## Building on a legacy
+Though the gameplay itself will take a whole new direction to reach the above-mentioned goals, the aesthetics of the game will try to be as close to the original as possible. Since the original is not yet released as a free game the original sprites cannot be used, but their essence, their main concept can serve as a perfect foundation.
 
-## Origin of the names
+### Remnants of a forgotten world
+The alpha of the original game and the concept arts hold a lot of untapped potential that allows us to build a world that could have been. They provide a unique way to stay true to the original but still be different.
+
+### Noughts and crosses
+One of the not so hidden easter eggs of the original game is the consistent presence of Xs and Os in units, structures and lore of the races. As it can be read in the manual 'A group of strange, sharp edged buildings was the first sign of any true opposition they
+encountered', the symbol of the human race become the square and the X. The cross on the footman's shield, the crossbow of the archer, the cross shape of the town hall, the cross on the top of the human barracks. So the O left for the orcs, that shaped almost all their structures. The current game will try to realize this idea even more.
+
+### Pseudo-features
+As every other game the original also had a lot of elements that were part of certain campaigns but were not accessible by the player in other campaigns or in custom games. Unbuildable structures, untrainable units, untriggerable events.
+
+### What you see is what you get
+[The Settlers (2018) redefined WYSIWYG](https://www.thesettlers-alliance.com/en/dev-wysiwyg/) in the context of games. 'We define the information the player can access as information layers. On the first layer, you have the world you play in – WYSIWYG. You see where you can place what building, farm resources, fish, hunt, gather etc. In the other layers you find everything else, you might want to know.'
+
+In the context of Warcraft it means that the proper resources have to be gathered to train and upgrade certain units and build certain structures. The role of the gold mines will be taken over by the quarrys and iron mines, and leather will be the primary building material of the orchish structures providing them a well-deserved advantage in the swamps.
+
+### Origin of the names
 The primary goal of the name selections is to pay homage to the names of the original game.
 
-### Warcry: Clans and Kingdoms
+#### Warcry: Clans and Kingdoms
 The main purpose of the game's title is to be as close to the original as possible to make the connection instantly recognizible, also to be a title that is coming from the franchise itself. Warcry was introduced in Warcraft 3 to add a unique reaction to every unit that has been ordered to attack a hero. Though heroes were only introduced in Warcraft 3, stronger, unique versions of the regular units were already playable in Warcraft 2, and were present as non-playable characters in Warcraft 1. Since similar units will be also added to this game it's a nice way to refer to this new key feature with the title while keeping it close to the original.
 
 The original subtitle was highlighting the playable races, so the new subtitle does the same, but in a more subtle way. Though the orcish clans and the kingdoms of the alliance were introduced only in Warcraft 2, there is no reason some similar variety couldn't be introduced in the current game. Hence the eye-catching reference in the subtitle.
 
-### World of Atser
+#### World of Atser
 The original name that inspired the name, Azeroth, is one of the locations that the Israelites stopped at during their forty years of wandering in the wilderness, Hazeroth, a place in the wilderness. Its transliteration is Chatseroth, that is originated from the word Chatser, meaning settlement, village. By omitting the beginning of the word the same way Blizzard did, but keeping the orginal trasliteration, we get Atser, the name of our Azeroth-inspired brand new world.
