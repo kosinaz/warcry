@@ -6,53 +6,21 @@ The War of the Ring game-mode of The Lord of the Rings: The Battle for Middle-ea
 
 ### Elements of strategy
 Ultimately, the elements of strategy should get the most focus, by allowing the players to use them in different ways to acquire victory.
-
-#### Attrition warfare
-This is the way of war most real-time strategy games are forcing on the player. It needs to be there, but its counter-part should get the same-level of attention.
-
-#### Maneuver warfare
-In maneuver warfare, the destruction of certain enemy targets is combined with isolation of enemy forces and the exploitation of enemy weaknesses by movement.
-
-##### Command centers
-Factions are required to have a designated center of command at all times. By default this would be the town hall, but there is an option to move it to another building or cave and keep the town hall as a fake command center as a deception. The opposing faction's primary goal will be to find this command center with spies, magic, or total annihilation of the base to crush the head of the enemy and scatter their forces.
-
-##### Leaders
-Every human squad is led by a corporal. The magical gemstones on the corporal's ring grants the lords and the king direct visibility and control over the squad.
-
-Every party of orc is led by a slasher. The skulls on the slasher's necklace grants the masters and the warchief direct visibility and control over the party.
-
-Ranged units that are close enough will automatically target the leaders of the squad to revoke the commanders' visibility and control over the squad and cripple the squad itself due to the lack of leadership.
-
-##### Logistical bases
-Almost every structure built by the player has some strategic importance. Losing a lumber mill can hinder ongoing constructions, losing the mines can prevent the training of additional soldiers, losing the farms can lead to lose entire armies due to starvation, but even secondary targets, like bridges and roads can weaken the forces of a nation. Unless the target is not even in use and has been built just to mislead the enemy.
-
-##### Fire support assets
-Conjurer and warlock towers are not vital targets, but they serve as literal fire support in the battles. These are the places where the rains of fire, the poison clouds, and the various monsters are summoned and controlled. Destroying them won't cripple a nation but can weaken it dramatically. However, it's not an easy task, since the dwellers will rain elemental blasts and firebolts on everyone who dare to oppose them. 
-
-##### Advantage of terrain
-Dense vegetation can provide concealment for tactical movements such as setting up an ambush. Elevation can provide an advantage to soldiers using projectile weapons. Cliffs can block off certain areas, making it unnecessary to station troops within the inaccessible area. Choke points between a lake or a swamp and hills, muddy areas can be also turned to advantage against the opposing forces.
-
-Similar manmade advantages are the walls, towers, bridges and roads.
-
-Warcraft 3 has almost all of these elements, but there is no reason why they couldn't be implemented in a game based on Warcraft 1.
-
-##### Double envelopment
-Encircling the enemy is a usual manouver in every game that features melee units.
-
-##### Ambush
-Units can hide in certain terrains and structures. In Warcraft 3 Night Elves have a similar ability, but in the current game it could be terrain-specific, not unit-specific.
-
-#### Scorched-earth action
-Every time an army achieves victory, it can keep its structures, people, and the knowledge of magical advancements to gain advantage of them in the future, or destroy some or all of them to prevent the enemy to recover them if it somehow manages to retreive the area in the future.
-
-#### Blockade
-
-
-#### Guerilla warfare
-
-#### Deception
-
-#### Feint
+* Attrition warfare: This is the way of war most real-time strategy games are forcing on the player. It needs to be there, but its counter-part should get the same-level of attention.
+* Maneuver warfare: In maneuver warfare, the destruction of certain enemy targets is combined with isolation of enemy forces and the exploitation of enemy weaknesses by movement.
+** Command centers: Factions are required to have a designated center of command at all times. By default this would be the town hall, but there is an option to move it to another building or cave and keep the town hall as a fake command center as a deception. The opposing faction's primary goal will be to find this command center with spies, magic, or total annihilation of the base to crush the head of the enemy and scatter their forces.
+** Leaders: Every human squad is led by a corporal. The magical gemstones on the corporal's ring grants the lords and the king direct visibility and control over the squad. Every party of orc is led by a slasher. The skulls on the slasher's necklace grants the masters and the warchief direct visibility and control over the party. Ranged units that are close enough will automatically target the leaders of the squad to revoke the commanders' visibility and control over the squad and cripple the squad itself due to the lack of leadership.
+** Logistical bases: Almost every structure built by the player has some strategic importance. Losing a lumber mill can hinder ongoing constructions, losing the mines can prevent the training of additional soldiers, losing the farms can lead to lose entire armies due to starvation, but even secondary targets, like bridges and roads can weaken the forces of a nation. Unless the target is not even in use and has been built just to mislead the enemy.
+** Fire support assets: Conjurer and warlock towers are not vital targets, but they serve as literal fire support in the battles. These are the places where the rains of fire, the poison clouds, and the various monsters are summoned and controlled. Destroying them won't cripple a nation but can weaken it dramatically. However, it's not an easy task, since the dwellers will rain elemental blasts and firebolts on everyone who dare to oppose them. 
+** Advantage of terrain: Dense vegetation can provide concealment for tactical movements such as setting up an ambush. Elevation can provide an advantage to soldiers using projectile weapons. Cliffs can block off certain areas, making it unnecessary to station troops within the inaccessible area. Choke points between a lake or a swamp and hills, muddy areas can be also turned to advantage against the opposing forces. Similar manmade advantages are the walls, towers, bridges and roads. Warcraft 3 has almost all of these elements, but there is no reason why they couldn't be implemented in a game based on Warcraft 1.
+** Double envelopment: Encircling the enemy is a usual manouver in every game that features melee units.
+** Ambush: Units can hide in certain terrains and structures. In Warcraft 3 Night Elves have a similar ability, but in the current game it could be terrain-specific, not unit-specific.
+* Scorched-earth action: Every time an army achieves victory, it can keep its structures, people, and the knowledge of magical advancements to gain advantage of them in the future, or destroy some or all of them to prevent the enemy to recover them if it somehow manages to retreive the area in the future.
+* Blockade: It is not always necessary to destroy the logistical bases of the enemy. Sending patrols to their supply routes is enough to cut off their supplies.
+* Sabotage: Bribed or mind-controlled enemy units can produce low quality weapons, waste food and resource supplies, set buildings on fire or destroy them completely to weaken the enemy.
+* Raiding: The goal of raiding is not to capture and hold a location but to do some harm, gather some resources and prisoners then to quickly retreat before the enemy forces are able to respond.
+* Deception: There are many forms of deception. The most obvious is the invisibility spell of the clerics, but other than this, both factions have the option to move their center of command, to build fake structures, to hide their soldiers.
+* Feint: There are two types, feint attacks and feint retreats. Both of them are usual tactics of the real-time strategy player.
 
 ### Gameplay aspects of strategy
 The real-life elements of strategy should be captured through pure strategical gameplay aspects. [Gabriel Wink's Post Human W.A.R : Developing a game in pursuit of untainted strategy](https://www.gamasutra.com/blogs/GabrielWink/20171210/311047/Developing_a_game_in_pursuit_of_untainted_strategy.php) will serve as a baseline with slight changes to fit the current need. 
