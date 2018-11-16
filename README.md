@@ -40,7 +40,7 @@ encountered', the symbol of the human race become the square and the X. The cros
 ### Unexpendables
 The original game and the sequels placed a great emphasis on the individual units, their personality, their characterization, and encouraged the players to manage them carefully, rather than treating them as expendable hordes. The current game will try to capture that in two ways.
 
-The first will be the hard limit on units. Squads will replace individual units, but most of the battles won't need more than 4 of them to stay true to the original idea that users have to pay attention to their tactical deployments rather than merely gathering a mob and sending them into the fray all at once.[*](https://www.codeofhonor.com/blog/the-making-of-warcraft-part-1)
+The first will be the hard limit on units. Squads will replace individual units, but most of the battles won't need more than 4 of them to stay true to the [original idea](https://www.codeofhonor.com/blog/the-making-of-warcraft-part-1) that users have to pay attention to their tactical deployments rather than merely gathering a mob and sending them into the fray all at once.
 
 The second way will focus on aesthetics. The goal is to randomly generate a different look for every unit that would identify them and make them more important for the player, but in the meantime keep them readable by giving every unit-type some distinctive feature that will make the individuals of the same unit-type look similar, but every other unit-types look different. The graphical design of the units should also include the idea of noughts and crosses, and for readability, even their silhouettes should look identical.
 
