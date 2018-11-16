@@ -44,6 +44,13 @@ The first will be the hard limit on units. Squads will replace individual units,
 
 The second way will focus on aesthetics. The goal is to randomly generate a different look for every unit that would identify them and make them more important for the player, but in the meantime keep them readable by giving every unit-type some distinctive feature that will make the individuals of the same unit-type look similar, but every other unit-types look different. The graphical design of the units should also include the idea of noughts and crosses, and for readability, even their silhouettes should look identical.
 
+### From the cutting room floor
+The early design documents of the original game contained [many ideas](https://www.codeofhonor.com/blog/the-making-of-warcraft-part-2) that didn't come to fruition due to the strict timeline, like the Mason's Hall, the Dwarven Inn, or the Elven Fletcher. Luckily, there is no reason not to include these supporting buildings in this game one way or another.
+
+In addition to dwarves and elves, lizard men and hobgoblins would have also been part of the game as NPC races like for example ogres. They might get some smaller roles in this game, but the focus will still be on the war of orcs and humans.
+
+Wheeling unit formations and heroes were also cut from the game by the developers, but the implementation of squads with turning rates and a special hero-system will make them a significant part of the current game.
+
 ### Pseudo-features
 As every other game the original also had a lot of elements that were part of certain campaigns but were not accessible by the player in other campaigns or in custom games. Unbuildable structures, untrainable units, untriggerable events. This game will implement all of them.
 
