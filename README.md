@@ -39,6 +39,8 @@ In addition to dwarves and elves, lizard men and hobgoblins would have also been
 
 Wheeling unit formations and heroes were also cut from the game by the developers, but the implementation of squads with turning rates and a special hero-system will make them a significant part of the current game.
 
+Before the very first playable version of the original game emerged, the idea of the [unit training procedure](https://www.codeofhonor.com/blog/the-making-of-warcraft-part-3) was very different. Initially, it felt more like Populous than Dune 2. Farms generated peasants and peons, and the barracks trained them to soldiers. This game will revisit this idea to emphasize the importance of each unit. The player won't be able to control peasants and peons directly. Overseers will order them to do everything, just like the squad leaders will lead the squads.
+
 ### Noughts and crosses
 One of the not so hidden easter eggs of the original game is the consistent presence of Xs and Os in units, structures and lore of the races. As it can be read in the manual 'A group of strange, sharp edged buildings was the first sign of any true opposition they
 encountered', the symbol of the human race become the square and the X. The cross on the footman's shield, the crossbow of the archer, the cross shape of the town hall, the cross on the top of the human barracks. So the O left for the orcs, that shaped almost all their structures. The current game will try to realize this idea even more.
