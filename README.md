@@ -37,6 +37,13 @@ The alpha of the original game and the concept arts hold a lot of untapped poten
 One of the not so hidden easter eggs of the original game is the consistent presence of Xs and Os in units, structures and lore of the races. As it can be read in the manual 'A group of strange, sharp edged buildings was the first sign of any true opposition they
 encountered', the symbol of the human race become the square and the X. The cross on the footman's shield, the crossbow of the archer, the cross shape of the town hall, the cross on the top of the human barracks. So the O left for the orcs, that shaped almost all their structures. The current game will try to realize this idea even more.
 
+### Unexpendables
+The original game and the sequels placed a great emphasis on the individual units, their personality, their characterization, and encouraged the players to manage them carefully, rather than treating them as expendable hordes. The current game will try to capture that in two ways.
+
+The first will be the hard limit on units. Squads will replace individual units, but most of the battles won't need more than 4 of them to stay true to the original idea that users have to pay attention to their tactical deployments rather than merely gathering a mob and sending them into the fray all at once.[*](https://www.codeofhonor.com/blog/the-making-of-warcraft-part-1)
+
+The second way will focus on aesthetics. The goal is to randomly generate a different look for every unit that would identify them and make them more important for the player, but in the meantime keep them readable by giving every unit-type some distinctive feature that will make the individuals of the same unit-type look similar, but every other unit-types look different. The graphical design of the units should also include the idea of noughts and crosses, and for readability, even their silhouettes should look identical.
+
 ### Pseudo-features
 As every other game the original also had a lot of elements that were part of certain campaigns but were not accessible by the player in other campaigns or in custom games. Unbuildable structures, untrainable units, untriggerable events. This game will implement all of them.
 
