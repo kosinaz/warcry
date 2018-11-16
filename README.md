@@ -33,6 +33,12 @@ Though the gameplay itself will take a whole new direction to reach the above-me
 ### Remnants of a forgotten world
 The alpha of the original game and the concept arts hold a lot of untapped potential that allows us to build a world that could have been. They provide a unique way to stay true to the original but still be different.
 
+The early design documents of the original game contained [many ideas](https://www.codeofhonor.com/blog/the-making-of-warcraft-part-2) that didn't come to fruition due to the strict timeline, like the Mason's Hall, the Dwarven Inn, or the Elven Fletcher. Luckily, there is no reason not to include these supporting buildings in this game one way or another.
+
+In addition to dwarves and elves, lizard men and hobgoblins would have also been part of the game as NPC races like for example ogres. They might get some smaller roles in this game, but the focus will still be on the war of orcs and humans.
+
+Wheeling unit formations and heroes were also cut from the game by the developers, but the implementation of squads with turning rates and a special hero-system will make them a significant part of the current game.
+
 ### Noughts and crosses
 One of the not so hidden easter eggs of the original game is the consistent presence of Xs and Os in units, structures and lore of the races. As it can be read in the manual 'A group of strange, sharp edged buildings was the first sign of any true opposition they
 encountered', the symbol of the human race become the square and the X. The cross on the footman's shield, the crossbow of the archer, the cross shape of the town hall, the cross on the top of the human barracks. So the O left for the orcs, that shaped almost all their structures. The current game will try to realize this idea even more.
@@ -45,11 +51,7 @@ The first will be the hard limit on units. Squads will replace individual units,
 The second way will focus on aesthetics. The goal is to randomly generate a different look for every unit that would identify them and make them more important for the player, but in the meantime keep them readable by giving every unit-type some distinctive feature that will make the individuals of the same unit-type look similar, but every other unit-types look different. The graphical design of the units should also include the idea of noughts and crosses, and for readability, even their silhouettes should look identical.
 
 ### From the cutting room floor
-The early design documents of the original game contained [many ideas](https://www.codeofhonor.com/blog/the-making-of-warcraft-part-2) that didn't come to fruition due to the strict timeline, like the Mason's Hall, the Dwarven Inn, or the Elven Fletcher. Luckily, there is no reason not to include these supporting buildings in this game one way or another.
 
-In addition to dwarves and elves, lizard men and hobgoblins would have also been part of the game as NPC races like for example ogres. They might get some smaller roles in this game, but the focus will still be on the war of orcs and humans.
-
-Wheeling unit formations and heroes were also cut from the game by the developers, but the implementation of squads with turning rates and a special hero-system will make them a significant part of the current game.
 
 ### Pseudo-features
 As every other game the original also had a lot of elements that were part of certain campaigns but were not accessible by the player in other campaigns or in custom games. Unbuildable structures, untrainable units, untriggerable events. This game will implement all of them.
