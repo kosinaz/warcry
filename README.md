@@ -50,9 +50,6 @@ The first will be the hard limit on units. Squads will replace individual units,
 
 The second way will focus on aesthetics. The goal is to randomly generate a different look for every unit that would identify them and make them more important for the player, but in the meantime keep them readable by giving every unit-type some distinctive feature that will make the individuals of the same unit-type look similar, but every other unit-types look different. The graphical design of the units should also include the idea of noughts and crosses, and for readability, even their silhouettes should look identical.
 
-### From the cutting room floor
-
-
 ### Pseudo-features
 As every other game the original also had a lot of elements that were part of certain campaigns but were not accessible by the player in other campaigns or in custom games. Unbuildable structures, untrainable units, untriggerable events. This game will implement all of them.
 
